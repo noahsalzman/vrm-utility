@@ -4,7 +4,7 @@
 # create_labels.sh
 #
 # Purpose:
-#   Reads a comma-separated text file and creates key:value label pairs for a Longbow tenant via API.
+#   Reads a comma-separated text file and creates key:value label pairs for a VRM tenant via API.
 #   The first item in each row is the label key; subsequent items are the values.
 #
 # Usage:
